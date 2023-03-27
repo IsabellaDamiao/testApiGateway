@@ -1,1 +1,0 @@
-web: restart=fail waitfor=localhost:8888 
